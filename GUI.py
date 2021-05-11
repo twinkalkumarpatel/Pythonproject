@@ -11,7 +11,7 @@ root.title("Multiple open URL")
 
 
 
-labal1 = Label(text = "Enter URL:")
+labal1 = Label(text = "Enter New URL:")
 labal1.pack()
 
 
